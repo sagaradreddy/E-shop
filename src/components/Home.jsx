@@ -62,7 +62,9 @@ function Home(props) {
     ):(
             <div className="col-md-12 mt-3 text-center">
                 <h5 className='display-5 text-success'>Featured products</h5>
-            </div>)}
+            </div>
+            )
+            }
            </div>
 
             <div className='row'>
